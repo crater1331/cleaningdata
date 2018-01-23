@@ -13,12 +13,12 @@ An integer value in the range \[1, 30\]. Each subject id identifies one of the 3
 
 #### activityname:
 Descriptive activity names (character vectors) identifying one of the six activities carried out in the study.
-    * WALKING (corresponds to y = 1 measurement in original dataset)
-    * WALKING_UPSTAIRS (corresponds to y = 2 measurement in original dataset)
-    * WALKING_DOWNSTAIRS (corresponds to y = 3 measurement in original dataset)
-    * SITTING (corresponds to y = 4 measurement in original dataset)
-    * STANDING (corresponds to y = 5 measurement in original dataset)
-    * LAYING (corresponds to y = 6 measurements in original dataset)
+* WALKING (corresponds to y = 1 measurement in original dataset)
+* WALKING_UPSTAIRS (corresponds to y = 2 measurement in original dataset)
+* WALKING_DOWNSTAIRS (corresponds to y = 3 measurement in original dataset)
+* SITTING (corresponds to y = 4 measurement in original dataset)
+* STANDING (corresponds to y = 5 measurement in original dataset)
+* LAYING (corresponds to y = 6 measurements in original dataset)
 
 #### avg(_x_):
 Average of measurement _x_ for corresponding activity and subject. Here _x_ can be one of the following measurements present in original dataset: 
